@@ -9,7 +9,7 @@ This Is A Scanner And Sniffer And Shell .
 - >   sudo python3 main.py
 ________________________________________________________________________________________________________________________________________________ 
 #### Useage :
-- >     sudo python3 sniffer.py  And Enter Command  
+- >     sudo python3 main.py  And Enter Command  scan,sco,sno,sniff,exit,help,hack,req,shell,show 
  _______________________________________________________________________________________________________________________________________________
  
 
