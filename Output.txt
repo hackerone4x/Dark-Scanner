@@ -1,0 +1,2 @@
+[@ [1;31mSUCSCESSFULL[1;33m @] >> [1;32mhttp://hack.com/admin.html
+[1;33m
